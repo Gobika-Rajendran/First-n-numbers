@@ -11,3 +11,6 @@ class SumOfNum
  System.out.println("The Sum Of "+n+" Numbers are:" + sum);
  }
  }
+
+OUTPUT:
+The Sum Of 10 Numbers are:55
